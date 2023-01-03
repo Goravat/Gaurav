@@ -1,0 +1,3 @@
+"ip":"GGG_smp.aternos.me"
+"port":"58741"
+"name":"Gaurav"
